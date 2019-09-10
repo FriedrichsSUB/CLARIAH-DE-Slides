@@ -9,6 +9,9 @@ Grundlegende Hinweise zur Erstellung der reveals Präsentation:
 3.	Die Auszeichnungssprache der erstellten Präsentation ist Markdown. Grundlegende Markdown-Befehle (Wie lege ich eine Überschrift an? Wie erstellt man Stichpunkte) sind im PDF Markdown-CheatSheet-Deutsch enthalten.
 4.	Der Befehl für ein Bild ist ![hier Bildbeschreibung](img/hier Dateiname im img-Ordner)
 
-Weitere Informationen und Möglichkeiten zu reveals-Präsentationen: https://github.com/hakimel/reveal.js
+Weitere Informationen und Möglichkeiten zu reveals-Präsentationen: 
+https://github.com/hakimel/reveal.js
+Ursprung und Informationen zur Vorlage dieses Templates: https://lab.sub.uni-goettingen.de/markdown-reveal-pages.html
+
 
 CC-0
