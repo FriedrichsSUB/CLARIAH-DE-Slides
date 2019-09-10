@@ -4,7 +4,7 @@ Das Repository kann geforked und weiter angepasst werden. Das nahezu leere Templ
 
 Grundlegende Hinweise zur Erstellung der reveals Präsentation:
 
-1.	Bitte zuerst im index.html. die Metadaten (Name, Kurzbeschreibung der Präsentation) ändern
+1.	Bitte zuerst im index.html die Metadaten (Name, Kurzbeschreibung der Präsentation) ändern
 2.	Texte einfügen. Die Einzelnen Seiten werden mit dem Befehl --- (drei Bindestriche) voneinander getrennt (horizontale Ebene). Möchte man Seiten in einer untergeordneten Ebene erstellen, verwendet man den Befehl -- (zwei Bindestriche, vertikale Ebene; was damit gemeint ist verdeutlicht die Beispielpräsentation unter https://revealjs.com/
 3.	Die Auszeichnungssprache der erstellten Präsentation ist Markdown. Grundlegende Markdown-Befehle (Wie lege ich eine Überschrift an? Wie erstellt man Stichpunkte) sind im PDF Markdown-CheatSheet-Deutsch enthalten.
 4.	Der Befehl für ein Bild ist ![hier Bildbeschreibung](img/hier Dateiname im img-Ordner)
