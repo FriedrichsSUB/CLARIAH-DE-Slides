@@ -115,7 +115,7 @@
 
 #### Governance  
 
-![Organigramm CLARIAH-DE](img/2019-08-06_Organigramm_CLARIAH-DE_mit_BMBF-Logo_kl_II.png)<!-- .element class="huge-img" -->
+![Organigramm CLARIAH-DE](img/2019-08-06_Organigramm_CLARIAH-DE_mit_BMBF-Logo_kl.png)<!-- .element class="huge-img" -->
 
 ---
 
